@@ -5,6 +5,7 @@
 <img src="./src/main/resources/readme_img_4.png"/>
 <p><b>온라인 마켓 SCM Admin 통계 플랫폼</b></p>
 <br/><p>2020.07.27 개발 시작<br/>2020.08.10 개발 완료</p>
+<br/><br/>
 
 # 구현체
 <ul>
@@ -12,7 +13,7 @@
     <li>롯데 L.Point 소비자 데이터 전처리.</li>
     <li>Oracle 기반 DB 설계 및 ERD 작성.</li>
     <li>C3 Chart 기반 통계 그래프 개발.</li>
-</ul>
+</ul> <br/><br/>
 
 # 기술 스택
 <ul>
